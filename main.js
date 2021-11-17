@@ -1,5 +1,5 @@
 // const contractId = '0x8514A0e42032B6ecd9cf29397068F331086B1842';
-const contractId = '0xF72ff85D6E7e5e9EcC702404fe7a18aA95a7505f';
+const contractId = '0x4cf03dfaa90165b25FC20cB6D86d8C5677bc9927';
 //const abi = ABI;
 // const web3 = new Web3("https://cronos-testnet-2.crypto.org:8545");
 const web3 = new Web3(window.web3.currentProvider);
